@@ -1,0 +1,24 @@
+[
+    {
+        "question": "What is Python?",
+        "options": [
+            "A snake species",
+            "Programming language",
+            "Movie title",
+            "Type of coffee"
+        ],
+        "answer": "B",
+        "time_limit": 30
+    },
+    {
+        "question": "What does PEP stand for?",
+        "options": [
+            "Python Enhancement Proposal",
+            "Python Exception Protocol",
+            "Programming Efficiency Process",
+            "Python Execution Package"
+        ],
+        "answer": "A",
+        "time_limit": 25
+    }
+]
